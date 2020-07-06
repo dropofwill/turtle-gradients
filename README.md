@@ -1,3 +1,5 @@
+Freshman programming project, in Flash!
+
 turtle-gradients
 ================
 
